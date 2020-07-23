@@ -9,9 +9,8 @@
   <img align="left" alt="sudhanshu's's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br></br>
-- 🔭 I’m currently working on qsp project using Deep learning under Dr.varun Dutt iit mandi <br></br>
+- 🔭 I’m currently working on qsp project using Deep learning under Dr.varun Dutt iit mandi
 - 🌱 I’m currently learning Deep Learning
-Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on qsp project using Deep learning under Dr.varun Dutt iit mandi
 - 🌱 I’m currently learning Deep Learning
