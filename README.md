@@ -1,4 +1,14 @@
 ### Hi there 👋
+<a href="https://twitter.com/sudhanshu__8">
+  <img align="left" alt="sudhanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/sudhanshu-kumar-a29ab8184">
+  <img align="left" alt="sudhanshu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ksudhanshu348">
+  <img align="left" alt="sudhanshu's's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
 - 🔭 I’m currently working on qsp project using Deep learning under Dr.varun Dutt iit mandi
 - 🌱 I’m currently learning Deep Learning
 Here are some ideas to get you started:
